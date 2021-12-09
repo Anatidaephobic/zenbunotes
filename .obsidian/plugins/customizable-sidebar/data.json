@@ -1,0 +1,10 @@
+{
+  "sidebarCommands": [
+    {
+      "id": "obsidian-plugin-prettier:format-selection",
+      "name": "Prettier Format: Format the just the selection in the note",
+      "icon": "checkbox-glyph"
+    }
+  ],
+  "hiddenCommands": []
+}

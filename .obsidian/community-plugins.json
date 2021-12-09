@@ -1,6 +1,7 @@
 [
+  "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-languagetool-plugin",
   "obsidian-mind-map",
-  "obsidian-markdown-formatting-assistant-plugin",
-  "obsidian-plugin-prettier"
+  "obsidian-plugin-prettier",
+  "customizable-sidebar"
 ]

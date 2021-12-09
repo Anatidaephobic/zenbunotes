@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "eada19ab2642bf3b",
+    "id": "a85ec70285c88cff",
     "type": "split",
     "children": [
       {
-        "id": "984aa37353509b4a",
+        "id": "899a40f9d59b399d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web app bay.md",
-            "mode": "source"
+            "file": "schizo/Brian Freud.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web app bay.md",
+                "file": "schizo/Brian Freud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web app bay.md",
+                "file": "schizo/Brian Freud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,20 +109,34 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "e5143acc5c905202",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 431.5,
     "collapsed": true
   },
-  "active": "984aa37353509b4a",
+  "active": "899a40f9d59b399d",
   "lastOpenFiles": [
-    "web app bay.md",
+    "schizo/Brian Freud.md",
+    "schizo/The Anime Body.md",
+    "less understandable/README.md",
+    "less understandable/Meta-relationality in external thought.md",
+    "understandable/README.md",
     "understandable/Foot and Why Should I Be Moral.md",
-    "README.md",
-    "less understandable/Meta-relationality in external thought.md"
+    "Untitled.md",
+    "schizo/README.md",
+    "web app and program bay.md",
+    "web app bay.md"
   ]
 }
