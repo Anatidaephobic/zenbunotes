@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "understandable/Foot and Why Should I Be Moral.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "understandable/Foot and Why Should I Be Moral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "understandable/Foot and Why Should I Be Moral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,12 +115,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 431.5,
+    "collapsed": true
   },
   "active": "984aa37353509b4a",
   "lastOpenFiles": [
-    "README.md",
     "understandable/Foot and Why Should I Be Moral.md",
+    "README.md",
     "less understandable/Meta-relationality in external thought.md"
   ]
 }
