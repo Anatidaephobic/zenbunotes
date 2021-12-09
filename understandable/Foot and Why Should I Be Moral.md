@@ -1,0 +1,3 @@
+
+[Peter Singer's Master's Thesis, "Why Should I Be Moral".](https://minerva-access.unimelb.edu.au/handle/11343/35543) It goes into multiple answers to that question, how they seem to fail, and also I've skipped most of it. I recommend using some form of contrast-enhancing method if you want to touch this, though most of the actual text of it is a lot better than the first few pages. He has grown past his view here to [some extent](https://www.youtube.com/watch?v=W3BmxyA3QPQ).
+
