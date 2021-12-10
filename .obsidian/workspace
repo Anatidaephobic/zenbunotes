@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
+            "file": "4 - Thoughts/understandable/On Foot and Why Should I Be Moral.md",
             "mode": "preview"
           }
         }
@@ -55,6 +55,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ba945dc48084c583",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -76,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
+                "file": "4 - Thoughts/understandable/On Foot and Why Should I Be Moral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
+                "file": "4 - Thoughts/understandable/On Foot and Why Should I Be Moral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,6 +125,14 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "4ce92158fe25882b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -127,15 +143,15 @@
   },
   "active": "918375637ec836bf",
   "lastOpenFiles": [
-    "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
-    "schizo/Online Girl.md",
-    "schizo/POWs From the Future.md",
-    "understandable/Foot and Why Should I Be Moral.md",
-    "schizo/The Anime Body.md",
-    "schizo/README.md",
-    "less understandable/Meta-relationality in external thought.md",
+    "4 - Thoughts/understandable/On Foot and Why Should I Be Moral.md",
+    "4 - Thoughts/schizo/Brian Freud.md",
+    "4 - Thoughts/less understandable/Meta-relationality in external thought.md",
+    "4 - Thoughts/less understandable/README.md",
+    "4 - Thoughts/schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
+    "4 - Thoughts/schizo/Online Girl.md",
+    "4 - Thoughts/schizo/POWs From the Future.md",
+    "4 - Thoughts/schizo/The Anime Body.md",
     "Quotations from Chairperson Zenbu.md",
-    "schizo/Brian Freud.md",
-    "less understandable/README.md"
+    "4 - Thoughts/schizo/README.md"
   ]
 }

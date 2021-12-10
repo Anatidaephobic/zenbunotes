@@ -3,5 +3,14 @@
   "obsidian-languagetool-plugin",
   "obsidian-mind-map",
   "obsidian-plugin-prettier",
-  "customizable-sidebar"
+  "customizable-sidebar",
+  "table-editor-obsidian",
+  "obsidian-collapse-all-plugin",
+  "hotkey-helper",
+  "nldates-obsidian",
+  "oz-image-plugin",
+  "templater-obsidian",
+  "recent-files-obsidian",
+  "calendar",
+  "obsidian-annotator"
 ]
