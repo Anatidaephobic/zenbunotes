@@ -1,4 +1,5 @@
 > Kill me
+
 > I won't stay down much longer
 > 
 > Kill me
@@ -6,7 +7,7 @@
 > 
 > Kill me
 > I've opened up the path
-> You'll wake up from this scary dream and laugh
+You'll wake up from this scary dream and laugh
 
 [(Source)](https://youtu.be/rsF5EWOQN9Y)
 

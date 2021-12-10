@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schizo/Online Girl.md",
-            "mode": "preview"
+            "file": "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276
   },
   "right": {
     "id": "f040551391895abd",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schizo/Online Girl.md",
+                "file": "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schizo/Online Girl.md",
+                "file": "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,15 +127,15 @@
   },
   "active": "918375637ec836bf",
   "lastOpenFiles": [
+    "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
     "schizo/Online Girl.md",
     "schizo/POWs From the Future.md",
-    "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
-    "schizo/Brian Freud.md",
-    "Quotations from Chairperson Zenbu.md",
     "understandable/Foot and Why Should I Be Moral.md",
     "schizo/The Anime Body.md",
     "schizo/README.md",
-    "less understandable/README.md",
-    "less understandable/Meta-relationality in external thought.md"
+    "less understandable/Meta-relationality in external thought.md",
+    "Quotations from Chairperson Zenbu.md",
+    "schizo/Brian Freud.md",
+    "less understandable/README.md"
   ]
 }
