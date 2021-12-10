@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,23 +119,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 227.5
   },
   "active": "918375637ec836bf",
   "lastOpenFiles": [
+    "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
+    "schizo/Online Girl.md",
+    "schizo/Brian Freud.md",
     "README.md",
     "less understandable/Meta-relationality in external thought.md",
     "schizo/The Anime Body.md",
-    "schizo/Brian Freud.md",
     "understandable/Foot and Why Should I Be Moral.md",
     "schizo/README.md",
     "less understandable/README.md",
-    "understandable/README.md",
-    "Untitled.md",
-    "web app and program bay.md"
+    "understandable/README.md"
   ]
 }
