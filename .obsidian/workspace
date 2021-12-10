@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "a85ec70285c88cff",
+    "id": "34679263a09eb67a",
     "type": "split",
     "children": [
       {
-        "id": "03f57175132e8026",
+        "id": "e870f3bb025aa386",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "understandable/Foot and Why Should I Be Moral.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "understandable/Foot and Why Should I Be Moral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "understandable/Foot and Why Should I Be Moral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
     "width": 431.5,
     "collapsed": true
   },
-  "active": "03f57175132e8026",
+  "active": "e870f3bb025aa386",
   "lastOpenFiles": [
     "understandable/Foot and Why Should I Be Moral.md",
     "schizo/The Anime Body.md",
