@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "schizo/The Anime Body.md",
-            "mode": "source"
+            "file": "schizo/Online Girl.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schizo/The Anime Body.md",
+                "file": "schizo/Online Girl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schizo/The Anime Body.md",
+                "file": "schizo/Online Girl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,15 +127,15 @@
   },
   "active": "918375637ec836bf",
   "lastOpenFiles": [
-    "schizo/The Anime Body.md",
-    "schizo/POWs From the Future.md",
     "schizo/Online Girl.md",
+    "schizo/POWs From the Future.md",
     "schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
     "schizo/Brian Freud.md",
-    "understandable/Foot and Why Should I Be Moral.md",
-    "less understandable/Meta-relationality in external thought.md",
     "Quotations from Chairperson Zenbu.md",
-    "README.md",
-    "schizo/README.md"
+    "understandable/Foot and Why Should I Be Moral.md",
+    "schizo/The Anime Body.md",
+    "schizo/README.md",
+    "less understandable/README.md",
+    "less understandable/Meta-relationality in external thought.md"
   ]
 }
