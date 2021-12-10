@@ -1,2 +1,4 @@
 # zenbunotes
 This is a "personal" public notebook that I'm maintaining as a personal knowledge base and a place to share short text segments. I'm open to use of all github features as ways to annotate, comment on and generally discourse around those notes, though I can't really promise I'm super eager to take a bunch of edits and critique to my personal notes, since to me part of the point of putting down notes is registering the actual thoughts I had about something at the time. If someone wants to use anything I've said here, I'd like to be cited if at all possible.
+
+I write my notes using [Obsidian](https://obsidian.md/). Some of the syntax isn't markdown, like the links to other notes. You can always download Obsidian and see the notes how I see them, including graphs and (eventually) mind-maps. All the plugin and config files are in this repository in the .obsidian folder. 
