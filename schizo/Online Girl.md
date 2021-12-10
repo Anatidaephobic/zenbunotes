@@ -16,4 +16,6 @@ She smiles a meme face that has not been born. I shiver.
 
 I fall for her.
 
+(Sweet mother, I cannot leave — slender Aphrodite has overcome me with longing for a post.)
+
 #poasts #fiction

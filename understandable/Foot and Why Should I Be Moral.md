@@ -12,4 +12,4 @@ It seems plain to me that the kind of thing Foot is talking about isn't so passi
 
 Of course, it isn't at all settled that self-interest compels the kind of commitment to justice that Foot describes. It's likely that most people benefit from being somewhat virtuous, but not virtuous unto death, and most people do some amount of compartmentalization and deception. Many types of person will likely benefit very little from virtue due to their personal dispositions or context; Singer himself gives the example of happy egoistic sociopaths.
 
-#philosophy #peter-singer #antihumanism
+#philosophy #antihumanism

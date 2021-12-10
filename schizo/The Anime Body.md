@@ -2,4 +2,4 @@ The anime body is not simply an ideal body. It is a reduced body. An abridged, s
 
 ![](https://i.imgur.com/YnkSdIj.png)
 
-#pomo #social-theory
+#pomo #social-theory #parody
