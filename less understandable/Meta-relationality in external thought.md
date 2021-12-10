@@ -1,6 +1,1 @@
----
-created: 2021-12-08T16:21:58-03:00
-modified: 2021-12-08T16:22:14-03:00
----
-
 it's easy enough to apply the relational ontology to analysis of concepts. how do the themes of growth in harry potter relate to its lore? how does harry potter relate to percy jackson? in what ways do they constitutively differ? it works, but if you're serious about the analysis, you should note that in analyzing the themes, which are themselves given by relationships of meaning, you are actually interoperating in an abstract machine with the work and emulating an abstract machine within it instead of beholding its relationships as-such; really, where do you think the abstract machine between harry potter and percy jackson is? that isn't to say exploring ephemeral virtual worlds can't bring insight into truth and useful models, but we should sometimes pay attention to “where” the true to subjects of our analysis are. 
