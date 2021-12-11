@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "918375637ec836bf",
+        "id": "4e0b567d47091171",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4 - Thoughts/understandable/On Foot and Why Should I Be Moral.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 319
   },
   "right": {
     "id": "f040551391895abd",
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Thoughts/understandable/On Foot and Why Should I Be Moral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Thoughts/understandable/On Foot and Why Should I Be Moral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
-  "active": "918375637ec836bf",
+  "active": "4e0b567d47091171",
   "lastOpenFiles": [
+    "briantest.md",
+    "Books/Brian Massumi/A User's Guide to Capitalism & Schiz (70)/A User's Guide to Capitalism & - Brian Massumi.pdf",
+    "Books/Brian Massumi/A User's Guide to Capitalism & Schiz (70)/cover.jpg",
+    "1 - Inbox/web app and program bay.md",
+    "1 - Inbox/test.md",
+    "1 - Inbox/Untitled.md",
+    "Books/Ailise Bulfin/_Monster, give me my child__ how the (69)/_Monster, give me my child__ ho - Ailise Bulfin.pdf",
     "4 - Thoughts/understandable/On Foot and Why Should I Be Moral.md",
     "4 - Thoughts/schizo/Brian Freud.md",
-    "4 - Thoughts/less understandable/Meta-relationality in external thought.md",
-    "4 - Thoughts/less understandable/README.md",
-    "4 - Thoughts/schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
-    "4 - Thoughts/schizo/Online Girl.md",
-    "4 - Thoughts/schizo/POWs From the Future.md",
-    "4 - Thoughts/schizo/The Anime Body.md",
-    "Quotations from Chairperson Zenbu.md",
-    "4 - Thoughts/schizo/README.md"
+    "4 - Thoughts/less understandable/Meta-relationality in external thought.md"
   ]
 }
