@@ -7,8 +7,11 @@
         "id": "4e0b567d47091171",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1 - Inbox/zen about selfworlds now.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Inbox/zen about selfworlds now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Inbox/zen about selfworlds now.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,26 +133,35 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "8af746f19fea115f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Inbox/zen about selfworlds now.md"
+              }
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "active": "4e0b567d47091171",
   "lastOpenFiles": [
-    "briantest.md",
-    "Books/Brian Massumi/A User's Guide to Capitalism & Schiz (70)/A User's Guide to Capitalism & - Brian Massumi.pdf",
-    "Books/Brian Massumi/A User's Guide to Capitalism & Schiz (70)/cover.jpg",
-    "1 - Inbox/web app and program bay.md",
-    "1 - Inbox/test.md",
-    "1 - Inbox/Untitled.md",
-    "Books/Ailise Bulfin/_Monster, give me my child__ how the (69)/_Monster, give me my child__ ho - Ailise Bulfin.pdf",
-    "4 - Thoughts/understandable/On Foot and Why Should I Be Moral.md",
+    "1 - Inbox/zen about selfworlds now.md",
+    "4 - Thoughts/schizo/indulgence.md",
+    "4 - Thoughts/fiction/Untitled.md",
     "4 - Thoughts/schizo/Brian Freud.md",
-    "4 - Thoughts/less understandable/Meta-relationality in external thought.md"
+    "4 - Thoughts/schizo/Online Girl.md",
+    "4 - Thoughts/schizo/The Anime Body.md",
+    "4 - Thoughts/schizo/POWs From the Future.md",
+    "4 - Thoughts/schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
+    "Quotations from Chairperson Zenbu.md",
+    "briantest.md"
   ]
 }
