@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 - Inbox/something something potentialities.md",
-            "mode": "source"
+            "file": "2 - Desk/zen about selfworlds now, magic edition.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Inbox/something something potentialities.md",
+                "file": "2 - Desk/zen about selfworlds now, magic edition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Inbox/something something potentialities.md",
+                "file": "2 - Desk/zen about selfworlds now, magic edition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Inbox/something something potentialities.md"
+                "file": "2 - Desk/zen about selfworlds now, magic edition.md"
               }
             }
           }
@@ -149,19 +150,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "active": "4e0b567d47091171",
   "lastOpenFiles": [
-    "1 - Inbox/something something potentialities.md",
-    "1 - Inbox/a gaze (working title).md",
-    "2 - Workspace/zen about selfworlds now.md",
-    "4 - Thoughts/schizo/indulgence.md",
+    "2 - Desk/zen about selfworlds now, magic edition.md",
+    "3 - Shelf/indulgence.md",
+    "1 - Inbox/web app and program bay.md",
+    "3 - Shelf/a gaze (working title).md",
+    "3 - Shelf/zen about selfworlds now.md",
+    "4 - Chest/understandable/something something potentialities.md",
     "4 - Thoughts/fiction/Untitled.md",
-    "4 - Thoughts/schizo/Brian Freud.md",
-    "4 - Thoughts/schizo/Online Girl.md",
-    "4 - Thoughts/schizo/The Anime Body.md",
-    "4 - Thoughts/schizo/POWs From the Future.md",
-    "4 - Thoughts/schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md"
+    "4 - Chest/schizo/Brian Freud.md",
+    "4 - Chest/schizo/Online Girl.md",
+    "4 - Chest/schizo/The Anime Body.md"
   ]
 }
