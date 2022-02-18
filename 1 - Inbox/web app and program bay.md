@@ -7,3 +7,5 @@ https://trace.moe/
 https://cubari.moe/
 
 https://15.ai/
+
+https://instant.io/
