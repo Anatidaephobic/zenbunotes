@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "d93b23f97b9d8d01",
+    "type": "split",
+    "children": [
+      {
+        "id": "52048e5b3e6b6a4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d903639e3b14e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotations from Chairperson Zenbu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c44409b126fef434",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fad2954b61b8ff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "980e0bed81224542",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8a5ccf2e1591174",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "caa54ae40a24a3c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f618f9a751f3a2ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "652d7295cfa3ffd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f0cd801384de29e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4d7675e3198f2b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ac780287dd0e395",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quotations from Chairperson Zenbu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4834880f6e7da72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quotations from Chairperson Zenbu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9757c725a058654f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93adbc4f17300ff9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quotations from Chairperson Zenbu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "customizable-sidebar:Prettier Format: Format the just the selection in the note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "7d903639e3b14e7e",
+  "lastOpenFiles": [
+    "4 - Chest/schizo/Online Girl.md",
+    "Quotations from Chairperson Zenbu.md",
+    "4 - Chest/less understandable/Meta-relationality in external thought.md",
+    "4 - Chest/schizo/Brian Freud.md",
+    "4 - Chest/understandable/indulgence.md",
+    "4 - Chest/understandable/zen about selfworlds now.md",
+    "3 - Shelf/a gaze (working title).md",
+    "2 - Desk/zen about selfworlds now, magic edition.md",
+    "2 - Desk/Bauman - Sociology as discipline.md",
+    "4 - Chest/schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
+    "README.md",
+    "4 - Chest/schizo/POWs From the Future.md",
+    "1 - Inbox/web app and program bay.md",
+    "4 - Chest/understandable/something something potentialities.md",
+    "4 - Chest/schizo/The Anime Body.md",
+    "4 - Chest/understandable/On Foot and Why Should I Be Moral.md"
+  ]
+}
