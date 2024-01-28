@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c1356c00d5a61390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Quotations from Chairperson Zenbu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Quotations from Chairperson Zenbu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Quotations from Chairperson Zenbu.md"
               }
             }
           }
@@ -168,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "yet-another-obsidian-synchronizer:YAOS": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "customizable-sidebar:Prettier Format: Format the just the selection in the note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -179,17 +167,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c1356c00d5a61390",
+  "active": "7d903639e3b14e7e",
   "lastOpenFiles": [
-    "Quotations from Chairperson Zenbu.md",
+    "2 - Desk/zen about selfworlds now, magic edition.md",
     "Untitled.md",
+    "Quotations from Chairperson Zenbu.md",
     "4 - Chest/schizo/Online Girl.md",
     "4 - Chest/less understandable/Meta-relationality in external thought.md",
     "4 - Chest/schizo/Brian Freud.md",
     "4 - Chest/understandable/indulgence.md",
     "4 - Chest/understandable/zen about selfworlds now.md",
     "3 - Shelf/a gaze (working title).md",
-    "2 - Desk/zen about selfworlds now, magic edition.md",
     "2 - Desk/Bauman - Sociology as discipline.md",
     "4 - Chest/schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
     "README.md",
