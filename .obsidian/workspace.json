@@ -136,7 +136,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -239,7 +240,7 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "0398aa151839bc79",
+  "active": "980e0bed81224542",
   "lastOpenFiles": [
     "Untitled.md",
     "1 - Inbox/web app and program bay.md",
