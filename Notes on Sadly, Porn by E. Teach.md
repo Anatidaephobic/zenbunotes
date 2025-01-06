@@ -1,0 +1,6 @@
+
+> A dreamer in analysis assumes the analyst knows what the dream will mean. Of course, the analyst might not know. But by allowing -- encouraging -- the belief that he, the analyst, is the person who absolutely would know but *doesn't tell it*, the dreamer can act on it.
+> 
+> The dreamer might never know what it meant, but something changes. You may find yourself tonight having a dream and thinking, I wonder what the author of this odd book on pornography would think of my dream? *He would know what it means.* And by knowing that I know what it means, you could begin to suspect some of what it means because its meaning is knowable -- and you will act. And the reason you think I would know what it meant is that you dreamt it with me in mind. But if I *told* you what it meant, even on the outside chance I was dead on, you would hear it whatever perverted way you needed to but attribute that meaning to me, you would use my authority to defend against the true interpretation. You would be much more satisfied, consider me a genius, and everyone else would be miserable. The analysis failed, but the therapy was a big success. That'll be $500, please.
+
+> 
