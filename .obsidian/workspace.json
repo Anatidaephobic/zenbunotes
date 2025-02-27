@@ -1,98 +1,37 @@
 {
   "main": {
-    "id": "d93b23f97b9d8d01",
+    "id": "17395087419f5cc2",
     "type": "split",
     "children": [
       {
-        "id": "52048e5b3e6b6a4e",
+        "id": "bcc0a8a753014572",
         "type": "tabs",
         "children": [
           {
-            "id": "7d903639e3b14e7e",
+            "id": "7e18712b509cf500",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Desk/Prose as Structured Data.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prose as Structured Data"
-            }
-          },
-          {
-            "id": "d2d721b03e008e8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on Sadly, Porn by E. Teach.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes on Sadly, Porn by E. Teach"
-            }
-          },
-          {
-            "id": "e1f2afef85652d30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Chest/understandable/Bauman - Sociology as discipline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bauman - Sociology as discipline"
-            }
-          },
-          {
-            "id": "21bbf1b0c682ef21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "0398aa151839bc79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Inbox/web app and program bay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "web app and program bay"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c44409b126fef434",
+    "id": "7cabd4aa7387f739",
     "type": "split",
     "children": [
       {
-        "id": "2fad2954b61b8ff9",
+        "id": "7cd73c510180bbdc",
         "type": "tabs",
         "children": [
           {
-            "id": "e8a5ccf2e1591174",
+            "id": "783e7261a90c7b1f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,7 +43,7 @@
             }
           },
           {
-            "id": "caa54ae40a24a3c6",
+            "id": "b92618a4d7ecd283",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -121,7 +60,7 @@
             }
           },
           {
-            "id": "f618f9a751f3a2ce",
+            "id": "36b7370886aeba2a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -129,59 +68,27 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "980e0bed81224542",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
-            "id": "a4c64998b9f43eb8",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "652d7295cfa3ffd6",
+    "id": "b3e991fc5c4da2d6",
     "type": "split",
     "children": [
       {
-        "id": "3f0cd801384de29e",
+        "id": "f24e7fb8b218a55b",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d7675e3198f2b7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "2ac780287dd0e395",
+            "id": "0c0ba0719855332a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Desk/Prose as Structured Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prose as Structured Data"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "a4834880f6e7da72",
+            "id": "9019a8acfd23abca",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Desk/Prose as Structured Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prose as Structured Data"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "9757c725a058654f",
+            "id": "0e06d4e4a306a715",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -222,15 +128,13 @@
             }
           },
           {
-            "id": "93adbc4f17300ff9",
+            "id": "b302821e069ab2d3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 - Desk/Prose as Structured Data.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Prose as Structured Data"
+              "title": "Outline"
             }
           }
         ]
@@ -245,38 +149,11 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "980e0bed81224542",
-  "lastOpenFiles": [
-    "2 - Desk/Prose as Structured Data.md",
-    "Notes on Sadly, Porn by E. Teach.md",
-    "4 - Chest/less understandable/indulgence.md",
-    "4 - Chest/less understandable/a gaze (working title).md",
-    "4 - Chest/understandable/something something potentialities.md",
-    "4 - Chest/understandable/On Foot and Why Should I Be Moral.md",
-    "4 - Chest/understandable/Bauman - Sociology as discipline.md",
-    "4 - Chest/schizo/The Anime Body.md",
-    "4 - Chest/schizo/POWs From the Future.md",
-    "4 - Chest/schizo/Online Girl.md",
-    "4 - Chest/less understandable/zen about selfworlds now, magic edition.md",
-    "4 - Chest/less understandable/README.md",
-    "4 - Chest/less understandable/Meta-relationality in external thought.md",
-    "Quotations from Chairperson Zenbu.md",
-    "1 - Inbox/web app and program bay.md",
-    "Untitled.md",
-    "README.md",
-    "4 - Chest/understandable/zen about selfworlds now.md",
-    "4 - Chest/understandable/README.md",
-    "4 - Chest/schizo/Kiss Me (Kill Me) {And the antihuman impulse}.md",
-    "mine",
-    "New folder",
-    "4 - Chest/schizo/Brian Freud.md"
-  ]
+  "active": "7e18712b509cf500",
+  "lastOpenFiles": []
 }
