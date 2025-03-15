@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bcc0a8a753014572",
+        "id": "b1289b6f856f4bc1",
         "type": "tabs",
         "children": [
           {
-            "id": "7e18712b509cf500",
+            "id": "626c720f6e766a00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on Sadly, Porn by E. Teach.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes on Sadly, Porn by E. Teach"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -173,6 +170,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e18712b509cf500",
-  "lastOpenFiles": []
+  "active": "626c720f6e766a00",
+  "lastOpenFiles": [
+    "Notes on Sadly, Porn by E. Teach.md"
+  ]
 }
