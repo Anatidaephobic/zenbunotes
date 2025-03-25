@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Untitled 1"
             }
+          },
+          {
+            "id": "23c6e69d2035bcca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "626c720f6e766a00",
+  "active": "23c6e69d2035bcca",
   "lastOpenFiles": [
     "Untitled 1.md",
     "Notes on Sadly, Porn by E. Teach.md"
